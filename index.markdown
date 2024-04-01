@@ -7,4 +7,4 @@ layout: home
 
 # Welcome to my Website!
 
-I'm Elijah Belnap, and I am a Database Engineer that works with SQLServer, Postgres, MySQL and other technologies. Feel free to take a look around. If you like what you see you can [subscribe](/subscribe.html) so that you get updates on new content.
+I'm Elijah Belnap, and I am a Data Engineer that works with SQLServer, Postgres, MySQL and other technologies. Feel free to take a look around. If you like what you see you can [subscribe](/subscribe.html) so that you get updates on new content.

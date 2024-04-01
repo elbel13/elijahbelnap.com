@@ -21,7 +21,7 @@
 title: Elijah Belnap
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
-  Elijah Belnap is a Database Engineer enthusiastic about various data technologies.
+  Elijah Belnap is a Data  Engineer enthusiastic about various data technologies.
   On his website he shares his knowledge and experience regarding SQL Server,
   Postgres, MySQL and more.
 baseurl: "/" # the subpath of your site, e.g. /blog
