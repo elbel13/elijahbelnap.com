@@ -22,6 +22,7 @@ end
 
 #Pin to newer version to avoid resolving to older 3.25 version
 gem "google-protobuf", "~> 4.26.1"
+gem "github-linguist", "~> 7.29.0"
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
 # and associated library.

@@ -5,7 +5,7 @@ title: About
 
 # About the Site and Author
 
-![image](/assets/images/Family_With_Dolphin.jpeg)
+![A Familly With a Dolphin](/assets/images/family-with-dolphin.jpeg)
 
 My name is Elijah Belnap, and I’ve been working with databases since 2019. At the time I was studying Mechanical Engineering at Utah Valley My name is Elijah Belnap, and I’ve been working with databases since 2019. At the time I was studying Mechanical Engineering at Utah Valley University, however, an internship around databases changed everything for me. I quickly fell in love with databases and began to reroute my career around them. I taught myself most of what I know, and I recently finished a bachelor’s degree in Data Analytics and Management. Presently I work remotely for Rocket Companies (parent of Rocket Mortgage, Rocket Money, etc) as a Data Engineer.
 
