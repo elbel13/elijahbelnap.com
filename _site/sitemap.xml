@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://elijahbelnap.com/machine-learning/2024/08/14/challanges-classifying-martian-images.html</loc>
+<loc>http://localhost:4000/machine-learning/2024/08/14/challanges-classifying-martian-images.html</loc>
 <lastmod>2024-08-14T00:00:00-06:00</lastmod>
 </url>
 <url>
-<loc>https://elijahbelnap.com/about.html</loc>
+<loc>http://localhost:4000/about.html</loc>
 </url>
 <url>
-<loc>https://elijahbelnap.com/blog.html</loc>
+<loc>http://localhost:4000/blog.html</loc>
 </url>
 <url>
-<loc>https://elijahbelnap.com/</loc>
+<loc>http://localhost:4000/</loc>
 </url>
 <url>
-<loc>https://elijahbelnap.com/subscribe.html</loc>
+<loc>http://localhost:4000/subscribe.html</loc>
 </url>
 <url>
-<loc>https://elijahbelnap.com/verification-follow_it-9vcMMqXy2gvrnaTC6Z5a.html</loc>
-<lastmod>2024-04-30T22:20:03-06:00</lastmod>
+<loc>http://localhost:4000/verification-follow_it-9vcMMqXy2gvrnaTC6Z5a.html</loc>
+<lastmod>2024-08-25T12:43:42-06:00</lastmod>
 </url>
 </urlset>
