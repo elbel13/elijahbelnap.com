@@ -11,3 +11,8 @@
   - `index`
   - `challanges-classifying-martian-images` (Only formatted head, header, and footer elements. Text content and formatting was not changed)
 - Fixed a repeat sentence in `about` page
+## Second commit
+- Changed filename to CHANGELOG.md
+- Created docs folder and moved CHANGELOG.md there
+- Added docs folder to _config.yml 
+- Undid copy-paste formatting of HTML pages so that each maintains its unique data
