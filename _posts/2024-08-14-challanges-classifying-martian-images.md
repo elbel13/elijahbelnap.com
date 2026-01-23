@@ -22,11 +22,11 @@ With that in mind, bear with me as I'm not a subject matter expert on this topic
 
 Neural networks are made up of different nodes, referred to as neurons, that each take inputs and produce outputs. I'm not going to go into depth on the mathematical side of what makes a neural network tick, as I don't pretend to completely understand it myself, but to summarize neurons use a mathematical function to process inputs. Standford has an in-depth tutorial in which they go through the mathematical details, and you can read more [here](http://deeplearning.stanford.edu/tutorial/supervised/MultiLayerNeuralNetworks/) if you're interested. The illustration below is from Standford's article and is a simple representation of a single neuron in a neural network.
 
-![Single Neuron Algorithm Diagram](/assets/images/single-neuron.png)
+![Single Neuron Algorithm Diagram]({{ site.baseurl }}/assets/images/single-neuron.png)
 
 The above illustration shows various inputs into a single neuron and the output after the neuron applies its activation function. To form a multilevel neural network, multiple layers of neurons are strung together; the output of one layer becomes the input to the next layer. These layers are referred to as "hidden layers" within a model. The below diagram (also from Standford's article) shows the first layer of inputs into the first hidden layer (L<sub>2</sub>), the output of this layer being fed to the next hidden layer as input, which feeds into the final hidden layer that produces the final output.
 
-![Multi-layered Nueral Network Diagram](/assets/images/neural-network.png)
+![Multi-layered Nueral Network Diagram]({{ site.baseurl }}/assets/images/neural-network.png)
 
 Like other machine-learning algorithms, these may be trained on large data sets to solve complex problems. During training, the network's output for each gets evaluated against known "correct" outputs. The network's function weights are then systematically adjusted based on this evaluation. The adjustment allows the network to improve its performance as training continues.
 
@@ -190,7 +190,7 @@ The goal was to train until the model consistently achieved over 81% accuracy. 8
 
 After the fourth training exercise, further model tuning only gave marginal results. The model was achieving greater accuracy than the original goal, and although a higher accuracy would be preferred I decided that the accuracy achieved in the latest training exercises was good enough. However, on the final evaluation the model performed below the 81% goal.
 
-![Algortihm Learning Curve](/assets/images/hirise-learning-curve.png)
+![Algortihm Learning Curve]({{ site.baseurl }}/assets/images/hirise-learning-curve.png)
 
 ## What Went Wrong?
 
@@ -198,7 +198,7 @@ The model achieves around 80% accuracy both during training and during the final
 
 By aggregating the labels predicted by the model, the issue became clear; the model had labeled every image in the "other" catch-all category! Because the test data set was made up of around 80% of images in the "other" category, labeling them in this category allowed the model to achieve this accuracy percentage. This would also explain how the model achieved its accuracy score during training. The validation set happened to be made up of just over 81% "other" images, therefore allowing the model to achieve over 81% accuracy on the validation data set.
 
-![Example Images With Actual VS Predicted Labels](/assets/images/hirise-labeled-image-examples.png)
+![Example Images With Actual VS Predicted Labels]({{ site.baseurl }}/assets/images/hirise-labeled-image-examples.png)
 
 ## Lessons Learned
 
