@@ -38,6 +38,7 @@ plugins:
 
 sass:
   quiet_deps: true
+  sass_dir: _ssas
 
 # Exclude from processing.
 # The following items will not be processed, by default.

@@ -30,6 +30,10 @@
             <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
             {%- endif -%}
           {%- endfor -%}
+          <button id="dm-toggle" class="dm-toggle" aria-label="Toggle dark mode" title="Toggle dark mode">
+            <span class="dm-icon-moon" aria-hidden="true">🌙</span>
+            <span class="dm-icon-sun"  aria-hidden="true">☀️</span>
+          </button>
         </div>
       </nav>
     {%- endif -%}

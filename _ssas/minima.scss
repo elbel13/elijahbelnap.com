@@ -49,3 +49,180 @@ $on-laptop:        800px !default;
   "minima/layout",
   "minima/syntax-highlighting"
 ;
+
+// ---------------------------------------------------------------------------
+// Dark mode — CSS custom properties approach
+// ---------------------------------------------------------------------------
+
+// Light-mode defaults (always applied)
+:root {
+  --dm-bg:            #fdfdfd;
+  --dm-text:          #111111;
+  --dm-brand:         #2a7ae2;
+  --dm-grey:          #828282;
+  --dm-grey-light:    #e8e8e8;
+  --dm-grey-dark:     #424242;
+  --dm-code-bg:       #eef;
+  --dm-code-border:   #e8e8e8;
+  --dm-header-border-top: #424242;
+  --dm-nav-bg:        #428bc7;
+  --dm-highlight-bg:  #ffffff;
+  --dm-table-header:  #f0f0f0;
+  --dm-table-stripe:  #f7f7f7;
+}
+
+// Dark-mode values — activated by OS preference OR by [data-theme="dark"] on <html>
+@mixin dark-theme {
+  --dm-bg:            #1a1a1a;
+  --dm-text:          #e8e8e8;
+  --dm-brand:         #6ab0f5;
+  --dm-grey:          #9a9a9a;
+  --dm-grey-light:    #3a3a3a;
+  --dm-grey-dark:     #bbbbbb;
+  --dm-code-bg:       #2a2a3a;
+  --dm-code-border:   #3a3a4a;
+  --dm-header-border-top: #bbbbbb;
+  --dm-nav-bg:        #1e5a8a;
+  --dm-highlight-bg:  #1e1e2e;
+  --dm-table-header:  #2a2a2a;
+  --dm-table-stripe:  #242424;
+}
+
+// System-level dark preference
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    @include dark-theme;
+  }
+}
+
+// Explicit user toggle
+[data-theme="dark"] {
+  @include dark-theme;
+}
+
+// ---------------------------------------------------------------------------
+// Apply custom properties to all the elements the Minima partials style
+// ---------------------------------------------------------------------------
+
+body {
+  background-color: var(--dm-bg);
+  color: var(--dm-text);
+}
+
+a {
+  color: var(--dm-brand);
+  &:visited { color: darken(#6ab0f5, 15%); }
+  &:hover   { color: var(--dm-text); }
+}
+
+blockquote {
+  color: var(--dm-grey);
+  border-left-color: var(--dm-grey-light);
+}
+
+pre, code {
+  background-color: var(--dm-code-bg);
+  border-color:     var(--dm-code-border);
+}
+
+table {
+  th { background-color: var(--dm-table-header); }
+  tr:nth-child(even) { background-color: var(--dm-table-stripe); }
+}
+
+.site-header {
+  border-top-color:    var(--dm-header-border-top);
+  border-bottom-color: var(--dm-grey-light);
+  background-color:    var(--dm-bg);
+}
+
+.site-title {
+  color: var(--dm-grey-dark);
+  &:visited { color: var(--dm-grey-dark); }
+}
+
+.site-nav {
+  .page-link { color: var(--dm-text); }
+
+  @media screen and (max-width: $on-palm) {
+    background-color: var(--dm-bg);
+    border-color:     var(--dm-grey-light);
+  }
+}
+
+.site-footer {
+  border-top-color: var(--dm-grey-light);
+  background-color: var(--dm-bg);
+  color: var(--dm-text);
+}
+
+.footer-col-wrapper { color: var(--dm-grey); }
+
+.post-meta { color: var(--dm-grey); }
+
+.nav-top-bar { background-color: var(--dm-nav-bg); }
+
+// ---------------------------------------------------------------------------
+// Syntax highlighting — dark overrides
+// ---------------------------------------------------------------------------
+
+.highlight {
+  background: var(--dm-highlight-bg);
+
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) & {
+      color: #abb2bf;
+      .c, .cm, .c1, .cs { color: #7f848e; font-style: italic }  // comments
+      .err              { color: #e06c75; background: transparent }
+      .k, .kd, .kn, .kp, .kr, .kt { color: #c678dd; font-weight: bold }
+      .s, .sb, .sc, .sd, .s2, .se, .sh, .si, .sx, .sr, .s1, .ss { color: #98c379 }
+      .n, .na, .nb, .nc, .nd, .ne, .nf, .ni, .nl, .nn, .nt, .nv  { color: #e5c07b }
+      .m, .mf, .mh, .mi, .mo, .il { color: #d19a66 }
+      .o, .ow              { color: #56b6c2 }
+      .p                   { color: #abb2bf }
+    }
+  }
+
+  [data-theme="dark"] & {
+    color: #abb2bf;
+    background: var(--dm-highlight-bg);
+    .highlighter-rouge & { background: var(--dm-code-bg); }
+    .c, .cm, .c1, .cs { color: #7f848e; font-style: italic }
+    .err              { color: #e06c75; background: transparent }
+    .k, .kd, .kn, .kp, .kr, .kt { color: #c678dd; font-weight: bold }
+    .s, .sb, .sc, .sd, .s2, .se, .sh, .si, .sx, .sr, .s1, .ss { color: #98c379 }
+    .n, .na, .nb, .nc, .nd, .ne, .nf, .ni, .nl, .nn, .nt, .nv  { color: #e5c07b }
+    .m, .mf, .mh, .mi, .mo, .il { color: #d19a66 }
+    .o, .ow              { color: #56b6c2 }
+    .p                   { color: #abb2bf }
+  }
+}
+
+// ---------------------------------------------------------------------------
+// Dark-mode toggle button
+// ---------------------------------------------------------------------------
+
+.dm-toggle {
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 0 6px;
+  font-size: 1.1rem;
+  line-height: 1;
+  color: var(--dm-text);
+  vertical-align: middle;
+
+  &:focus { outline: 2px solid var(--dm-brand); border-radius: 3px; }
+}
+
+// Keep the toggle icon in sync: show sun in dark mode, moon in light mode
+.dm-toggle .dm-icon-moon  { display: inline; }
+.dm-toggle .dm-icon-sun   { display: none; }
+
+[data-theme="dark"] .dm-toggle .dm-icon-moon  { display: none; }
+[data-theme="dark"] .dm-toggle .dm-icon-sun   { display: inline; }
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) .dm-toggle .dm-icon-moon { display: none; }
+  :root:not([data-theme="light"]) .dm-toggle .dm-icon-sun  { display: inline; }
+}
