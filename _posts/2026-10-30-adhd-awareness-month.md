@@ -4,7 +4,7 @@ title: "ADHD Awareness Month"
 author: Elijah Belnap
 tags: adhd workplace
 category: adhd
-date: 2026-11-04
+date: 2026-11-14
 ---
 
 In March I was diagnosed with ADHD inattentive type. I wasn't terribly surprised; my brother Ben and I had discussed ADHD extensively and I had begun to think it was a defining factor in why I experience certain challenges. However, this late diagnosis wasn't because ADHD appeared out of nowhere nor because it never caused me any issues, but rather because I've had to learn to adapt over the years to function despite having ADHD. Had I recognized my ADHD sooner, perhaps I could have avoided learning some lessons.
@@ -26,7 +26,7 @@ While this strategy usually works for me, I can understand that not everyone has
 
 ### The 45 Minute Rule
 
-I once had a Product Manager whose calendar was almost always completely full. His role revolved around meating with steakholders, gathering requirements, and planing project timelines. He was constantly collaborating and jumping from one meeting to the next. What he didn't realize was that for me in particular back to back meetings were disastrious.
+I once had a Product Manager whose calendar was almost always completely full. His role revolved around meeting with stakeholders, gathering requirements, and planning project timelines. He was constantly collaborating and jumping from one meeting to the next. What he didn't realize was that for me in particular back to back meetings were disastrous.
 
 
 ### The Panic Monster
