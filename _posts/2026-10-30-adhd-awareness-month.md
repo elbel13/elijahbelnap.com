@@ -26,6 +26,9 @@ While this strategy usually works for me, I can understand that not everyone has
 
 ### The 45 Minute Rule
 
+I once had a Product Manager whose calendar was almost always completely full. His role revolved around meating with steakholders, gathering requirements, and planing project timelines. He was constantly collaborating and jumping from one meeting to the next. What he didn't realize was that for me in particular back to back meetings were disastrious.
+
+
 ### The Panic Monster
 
 Another aspect of ADHD I struggle with is procrastination. 
