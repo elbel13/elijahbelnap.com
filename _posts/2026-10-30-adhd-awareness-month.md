@@ -4,19 +4,19 @@ title: "ADHD Awareness Month"
 author: Elijah Belnap
 tags: adhd workplace
 category: adhd
-date: 2026-11-14
+date: 2026-11-21
 ---
 
 In March I was diagnosed with ADHD inattentive type. I wasn't terribly surprised; my brother Ben and I had discussed ADHD extensively and I had begun to think it was a defining factor in why I experience certain challenges. However, this late diagnosis wasn't because ADHD appeared out of nowhere nor because it never caused me any issues, but rather because I've had to learn to adapt over the years to function despite having ADHD. Had I recognized my ADHD sooner, perhaps I could have avoided learning some lessons.
 
-This ADHD awareness month I have been reflecting a lot on my ADHD experience. While those affected by ADHD may or may not relate to certain aspects of my experience, my hope is that by sharing some of my thoughts I can help raise awareness of issues that may arise from ADHD, how they manifest in the workplace, and how you can help yourself or your coworkers have a little less pain trying to deal with them.
+This ADHD awareness month, I have been reflecting a lot on my ADHD experience. While those affected by ADHD may or may not relate to certain aspects of my experience, my hope is that by sharing some of my thoughts I can help raise awareness of issues that may arise from ADHD, how they manifest in the workplace, and how you can help yourself or your coworkers have a little less pain trying to deal with them.
 
 ## What Inattentive Type ADHD Feels Like for Me
 ### The Token Analogy
 
 The analogy that I find best suits what living with inattentive type ADHD is like is what I would like to call "The Token Analogy." I know that tokens have taken on a new meaning in the AI era, but for this analogy the tokens we refer to are more similar to arcade tokens. I'm sure many of us remember going to Chuck E. Cheese and, at a discounted package price, being allotted our share of tokens.
 
-In my case, once allotted tokens for a trip, there was no "getting more." Since my tokens were limited, I spent a lot of time paying attention to how many tokens each game cost. Sometimes I would focus on games that had an optimal tokens to ticket ratio, or gave me the most playtime, rather than the games that I thought looked most attractive. In short I had to spend my tokens wisely because they were a limited resource, and once the tokens were gone I wouldn't be able to participate in additional arcade activities.
+In my case, once allotted tokens for a trip, there was no "getting more." Since my tokens were limited, I spent a lot of time paying attention to how many tokens each game cost. Sometimes I would focus on games that had an optimal tokens to ticket ratio, or gave me the most playtime, rather than the games that I thought looked most attractive. In short, I had to spend my tokens wisely because they were a limited resource, and once the tokens were gone I wouldn't be able to participate in additional arcade activities.
 
 I've learned to ration my attention the same way I would ration the tokens at an arcade. Focusing on daily tasks takes effort, and I like to refer to the effort needed as "focus tokens". Like in an arcade, not all tasks cost the same number of tokens. Spending an hour on the big project? That might be a lot of focus tokens. Sending a message over Slack to follow up with someone? A smaller number of tokens. There are important tasks and deadlines, but because my ability to focus is limited, I have to be strategic about which ones I choose to do when.
 
@@ -26,36 +26,36 @@ While this strategy usually works for me, I can understand that not everyone has
 
 ### The 45 Minute Rule
 
-I once had a Product Manager whose calendar was almost always completely full. His role revolved around meeting with stakeholders, gathering requirements, and planning project timelines. He was constantly collaborating and jumping from one meeting to the next. What he didn't realize was that for me in particular back to back meetings were disastrous.
+I once had a Product Manager whose calendar was almost always completely full. His role revolved around meeting with stakeholders, gathering requirements, and planning project timelines. He was constantly collaborating and jumping from one meeting to the next. What he didn't realize was that for me in particular back-to-back meetings were disastrous.
 
-Sometimes he would schedule back to back meetings on the one day he had somewhat free to get through all of our team items at once. After the second of one of these meetings and another hour of meetings to go, I mentioned to him that the pacing was difficult. I explained that I can stay engaged for about 45 minutes, start to struggle but somewhat engaged the last 15 minutes of a meeting, and anything passed that I'm likely drained and zoned out.
+Sometimes he would schedule back-to-back meetings on the one day he had somewhat free to get through all of our team items at once. After the second of one of these meetings, with another hour of meetings to go, I mentioned to him that the pacing was difficult. I explained that I can stay engaged for about 45 minutes, start to struggle but stay somewhat engaged the last 15 minutes of a meeting, and anything past that, I'm likely drained and zoned out.
 
-Thankfully, he was willing to adjust and stopped booking back to back meetings. However, even more importantly, I began using the 45 minute rule to make sure myself and others stay engaged in meetings I organize. I try to keep meetings short, about 45 minutes or less, and if a longer meeting is needed checking in after 45 minutes helps determine if everyone is engaged or we need a break.
+Thankfully, he was willing to adjust and stopped booking back-to-back meetings. However, even more importantly, I began using the 45 minute rule to make sure others and I stay engaged in meetings I organize. I try to keep meetings short, about 45 minutes or less, and if a longer meeting is needed checking in after 45 minutes helps determine if everyone is engaged or we need a break.
 
 
 ### The Panic Monster
 
-Another aspect of ADHD I struggle with is procrastination. While this isn't solely an ADHD problem, the lack of dopamine regulation of individuals with ADHD makes procrastination an incredibly common issue. My favorite explanation of procrastination is that of the Panic Monster.
+Another aspect of ADHD I struggle with is procrastination. While this isn't solely an ADHD problem, the lack of dopamine regulation in individuals with ADHD makes procrastination an incredibly common issue. My favorite explanation of procrastination is that of the Panic Monster.
 
-In his Ted Talk [Inside the Mind of a Master Procrastinator](https://www.youtube.com/watch?v=arj7oStGLkU), he describes the struggle of a procrastinator coming down to a struggle in the brain. He says a normal brain has a rational decesion maker. A procrastinator brain has a rational decesion maker, instant gratification monkey, and (when the deadline becomes too close) a panic monster.
+In his Ted Talk [Inside the Mind of a Master Procrastinator](https://www.youtube.com/watch?v=arj7oStGLkU), he describes the struggle of a procrastinator coming down to a struggle in the brain. He says a normal brain has a rational decision maker. A procrastinator brain has a rational decision maker, instant gratification monkey, and (when the deadline becomes too close) a panic monster.
 
-The instant gratification monkey always looks for the easiest tasks with the highest instant gratification, which impedes the decision maker from being productive. This causes projects to fall behind until, when as the deadline approaches, the panic monster wakes up and scares the instant gratification monkey away while motivating the rational decesion maker to complete the entire project all at once.
+The instant gratification monkey always looks for the easiest tasks with the highest instant gratification, which impedes the decision maker from being productive. This causes projects to fall behind until, as the deadline approaches, the panic monster wakes up and scares the instant gratification monkey away while motivating the rational decision maker to complete the entire project all at once.
 
-This entertaining narrative gives some good insight into why procrastination often happens: it's not that I don't want to do the project, it's that it is difficult to start on it now and much easier to do other things instead. Many individuals with ADHD describe difficulty in motivating to start tasks, however with a strong enough panic monster things do seem to get done (for the most part).
+This entertaining narrative gives some good insight into why procrastination often happens: it's not that I don't want to do the project, it's that it is difficult to start on it now and much easier to do other things instead. Many individuals with ADHD describe difficulty motivating to start tasks; however, with a strong enough panic monster things do seem to get done (for the most part).
 
 Obviously, work put off to the last minute is less than ideal. For that reason, I often try to break work down into smaller pieces and deadlines. This sounds reasonable, but it only works when one important thing happens: the deadlines are shared with someone else who holds me accountable.
 
-When I have a large project and say "I'm going to do this one small piece this sprint," I will still procrastinate it feels overwhelming to start. However, when standup rolls around and the project manager looks at my stories and asks "how is starting the project going?" or my boss asks about it in my 1:1, my panic monster activates and I am finally able to start. Sometimes I remind myself throughout the week that the standup or 1:1 is coming, and that also helps me wake up the panic monster to get things done.
+When I have a large project and say "I'm going to do this one small piece this sprint," I will still procrastinate because it feels overwhelming to start. However, when standup rolls around and the project manager looks at my stories and asks "how is starting the project going?" or my boss asks about it in my 1:1, my panic monster activates and I am finally able to start. Sometimes I remind myself throughout the week that the standup or 1:1 is coming, and that also helps me wake up the panic monster to get things done.
 
 ## Tips to Support Your ADHD Coworkers
 
 ### Share Your Focus Tokens
 
-### Impleement a 45 Minute Rule
+### Implement a 45 Minute Rule
 
 
 ### Waking Up the Panic Monster Early
 
-The awareness of that there is a panic monster empowers you to wake him up early, rather than waiting for the final deadline. Sometimes even just asking your cowoorker "how is project x going?" may be enough to wake up the panic monster, as suddenly they have to produce an answer or commit to working on the project soon. Another approach is you can ask your coworker if they would like reminders regularly about deadlines, or help in breaking up work into mini deadlines; just be sure to ask first so you can establish an agreement rather than just being labeled as a nag.
+The awareness that there is a panic monster empowers you to wake him up early, rather than waiting for the final deadline. Sometimes even just asking your coworker "how is project x going?" may be enough to wake up the panic monster, as suddenly they have to produce an answer or commit to working on the project soon. Another approach is to ask your coworker if they would like reminders regularly about deadlines, or help in breaking up work into mini deadlines; just be sure to ask first so you can establish an agreement rather than just being labeled as a nag.
 
 ## 
