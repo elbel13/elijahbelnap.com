@@ -51,6 +51,14 @@ When I have a large project and say "I'm going to do this one small piece this s
 
 ### Share Your Focus Tokens
 
+One well known way that helps ADHD individuals get started on and finishing tasks is called body doubling. Often on our own it can be difficult to know where to start or to motivate ourselves to see a task through. With another individual present, however, it becomes much easier for individuals with ADHD to not only begin tasks but also to see them thorugh. Sometimes, the body double doesn't even need to participate heavily in the task; often being present is enough for you to lend some of your focus tokens to your ADHD coworker.
+
+Now this may sound counterintuitive. Having two people asigned to one task is common in many jokes about job innefeciency, but on the contrary when done right it can be a productivity boost for both involved. In software, pair programming is one example where the industry has adopted body doubling as an activity that boosts productivity through body doubling.
+
+In pair programming, one person "drives" and performs a programming task on their computer while a nearby coworker watches. Even though the watcher may not be physically completing the task, they are expected to follow along and remain engaged. Often the non-driver can interrupt if they find the driver is going down the wrong path or makes a mistake. If either individual gets lost or isn't sure on the next step, both can discuss and refine each other's ideas to make a better solution than either would make on their own.
+
+Body doubling doesn't necessarily have to be applied in person. I've done many virtual pair programming sessions with the driver sharing their screen on a video call. In my case, having someone else I have to explain what I'm doing to helps me remain focused as well as get better results than working alone. I try to pause frequently and get feedback from my coworker as I go. Not only are these sessions more productive, I've saved many hours of work when a peer points out a flaw in what I'm doing or recomends a better solution.
+
 ### Implement a 45 Minute Rule
 
 
